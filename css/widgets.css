@@ -1,0 +1,8 @@
+i.eicon-allaround-icon {
+    background-image: url(../images/allaround-icon.png);
+    width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-position: center;
+}
